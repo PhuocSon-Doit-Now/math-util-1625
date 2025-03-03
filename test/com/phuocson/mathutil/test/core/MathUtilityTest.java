@@ -46,7 +46,7 @@ public class MathUtilityTest {
         Assert.assertEquals(6, MathUtil.getFactrial(3));//tui muốn 3! = 6
         Assert.assertEquals(24, MathUtil.getFactrial(4));//tui muốn 4! = 24
         Assert.assertEquals(120, MathUtil.getFactrial(5));//tui muốn 5! = 120
-        Assert.assertEquals(720, MathUtil.getFactrial(6));//tui muốn 6! = 120
+        Assert.assertEquals(120, MathUtil.getFactrial(6));//tui muốn 6! = 120
         
     }   //hàm giúp so sánh 2 gái trị nào đó có giống nhau hay không
         //nếu giống nhau -> thảy màu xanh đến đường - đường thông, code ngon
